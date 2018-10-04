@@ -1,0 +1,1092 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8pbx0w7B8m0ymgPYU0H1KC2dNDOx48Yn24HPwTFe00JC7ym8Nrs6XbpY6X0INKYLqVSG=w300"group-title="Canales",IMPACTOVISION
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1501188521.jpg" group-title= FM Hot TV HD
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8
+#EXTINF:-1, Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1, orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1, TELE RED RETRO
+http://k4.usastreams.com/Telesistemas/Telesistemas/media_w352570325.m3u8
+#EXTINF:-1, ACS RETRO
+https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/chunklist_w530859426.m3u8
+#EXTINF:0, canal 13 nicaragua
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+#EXTINF:0,Distrito Comedia 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5375.m3u8
+#EXTINF:0,TeleMundo 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5387.m3u8
+#EXTINF:0,Telemundo INT 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5326.m3u8
+#EXTINF:0,Unicable 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5322.m3u8
+#EXTINF:0,Univision
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5320.m3u8
+#EXTINF:0,Univision TDN 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5319.m3u8
+#EXTINF:0, AZTECA 1
+https://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1, Fight time (ufc)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0,Fight HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/529.m3u8
+#EXTINF:0,Fight Sport HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/584.m3u8
+#EXTINF:0,UFC
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1382.m3u8
+#EXTINF:-1, Disney xd
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+#EXTINF:-1, Cachipum tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:0,Univision HD 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/7704.m3u8
+#EXTINF:0,UFC Fight
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/6421.m3u8
+#EXTINF:0,AMC 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5396.m3u8
+#EXTINF:0,AXN 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5393.m3u8
+#EXTINF:0,AZTeca 13
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5392.m3u8
+#EXTINF:0,AZTeca 7
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5391.m3u8
+#EXTINF:0,AZTeca Noticias
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5386.m3u8
+#EXTINF:0,Animal Planet 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5394.m3u8
+#EXTINF:0,CDF Basico 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5341.m3u8
+#EXTINF:0,CDF FHD 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5335.m3u8
+#EXTINF:0,CDF Premium
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5334.m3u8
+#EXTINF:0,CHV 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5329.m3u8
+#EXTINF:0,CNN HD 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5325.m3u8
+#EXTINF:0,Canal 11 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5385.m3u8
+#EXTINF:0,Canali 5 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5384.m3u8
+#EXTINF:0,Caracol 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5383.m3u8
+#EXTINF:0,Cartoon Network 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5382.m3u8
+#EXTINF:0,CineCanal 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5381.m3u8
+#EXTINF:0,CineMax 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5380.m3u8
+#EXTINF:0,Cinema Dinamita 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5390.m3u8
+#EXTINF:0,DE Pelicula 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5379.m3u8
+#EXTINF:0,DXTV 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5374.m3u8
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5378.m3u8
+
+#EXTINF:0,Disney Channel 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5377.m3u8
+#EXTINF:0,Disney Jr 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5376.m3u8
+#EXTINF:0,EL Gourmet 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5373.m3u8
+#EXTINF:0,ESPN 1 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5371.m3u8
+#EXTINF:0,ESPN 2 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5370.m3u8
+#EXTINF:0,ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5369.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5395.m3u8
+#EXTINF:0,Encuentro
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5372.m3u8
+#EXTINF:0,Film Zone 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5368.m3u8
+#EXTINF:0,Fox 1 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5365.m3u8
+#EXTINF:0,Fox Action 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5364.m3u8
+#EXTINF:0,Fox Cinema 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5363.m3u8
+#EXTINF:0,Fox Classics 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5362.m3u8
+#EXTINF:0,Fox 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5366.m3u8
+#EXTINF:0,Fox Life 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5361.m3u8
+#EXTINF:0,Fox Movies 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5360.m3u8
+#EXTINF:0,Fox Sport 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5359.m3u8
+#EXTINF:0,Fox Sport 2 FHD 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5358.m3u8
+#EXTINF:0,Fox Sports 2 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5350.m3u8
+#EXTINF:0,Fox Sports Eventos 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5353.m3u8
+#EXTINF:0,GOL TV 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5356.m3u8
+#EXTINF:0,GalaVision 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5357.m3u8
+#EXTINF:0,Golden 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5355.m3u8
+#EXTINF:0,History 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5354.m3u8
+#EXTINF:0,Investigation Discovery 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5352.m3u8
+#EXTINF:0,La Red
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5323.m3u8
+#EXTINF:0,MTV Latino Hits 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5348.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5349.m3u8
+#EXTINF:0,Multimedios
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5347.m3u8
+#EXTINF:0,Musica SI
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5346.m3u8
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5344.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5345.m3u8
+#EXTINF:0,Nick Jr 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5343.m3u8
+#EXTINF:0,Nickelodeon 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5342.m3u8
+#EXTINF:0,PFC 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5336.m3u8
+#EXTINF:0,RCN 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5340.m3u8
+#EXTINF:0,Ritmoson 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5339.m3u8
+#EXTINF:0,SUROYO TV 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/8936.m3u8
+#EXTINF:0,Sky ESPN Brazil 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5337.m3u8
+#EXTINF:0,Sky ESPN
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5338.m3u8
+#EXTINF:0,Sky Sport TV 1
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5333.m3u8
+#EXTINF:0,Sky Sport TV 2 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5332.m3u8
+#EXTINF:0,Sky Sport TV 3 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5331.m3u8
+#EXTINF:0,Space 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5330.m3u8
+#EXTINF:0,TBS 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5328.m3u8
+#EXTINF:0,TNT Series 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5324.m3u8
+#EXTINF:0,TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5389.m3u8
+#EXTINF:0,Tele Musica
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5327.m3u8
+#EXTINF:0,TeleMundo
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5387.m3u8
+#EXTINF:0,Telemundo INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5326.m3u8
+#EXTINF:0,Unicable
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5322.m3u8
+#EXTINF:0,Universal 
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5321.m3u8
+
+#EXTINF:0,VH1 Latino Latin America
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5318.m3u8
+#EXTINF:0,Warner Latin America
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5317.m3u8
+#EXTINF:0,Win Sports Latin America
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5351.m3u8
+#EXTINF:0,tru TV Latin America
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/5367.m3u8
+
+#EXTINF:0,Fight HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/529.m3u8
+#EXTINF:0,Fight Sport HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/584.m3u8
+
+#EXTINF:0,MLB HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/573.m3u8
+#EXTINF:0,MLB Network HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/7701.m3u8
+#EXTINF:0,MLB Network US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/574.m3u8
+#EXTINF:0,MSNBC HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/575.m3u8
+#EXTINF:0,WWE HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/562.m3u8
+#EXTINF:0,WWE Network FHD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/7544.m3u8
+#EXTINF:0,WWE US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/7778.m3u8
+#EXTINF:0,Zee Cinema US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/2792.m3u8
+#EXTINF:0,NBA Live 1 HD US
+#EXTVLCOPT:network-caching=1000
+http://restream.geniptv.com:8080/live/new_premium.cccam_/6yhYHnnN6OoPo/8538.m3u8
+#EXTINF:0,24/7: The Simpsons HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/836.m3u8
+#EXTINF:0,24/7: Bob Esponja SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/853.m3u8
+#EXTINF:0,24/7: Canal Disney  HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/852.m3u8
+#EXTINF:0,24/7: Dragon Ball HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/851.m3u8
+#EXTINF:0,24/7: Dragon Ball Z HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/850.m3u8
+#EXTINF:0,24/7: El Chapulín Colorado SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/849.m3u8
+#EXTINF:0,24/7: El Chavo del Ocho SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/848.m3u8
+#EXTINF:0,24/7: Futurama HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/846.m3u8
+#EXTINF:0,24/7: Los caballeros del Zodiaco  HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/845.m3u8
+#EXTINF:0,24/7: MacGyver SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/834.m3u8
+#EXTINF:0,24/7: Malcolm  HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/844.m3u8
+#EXTINF:0,24/7: Mr. Bean SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/843.m3u8
+#EXTINF:0,24/7: Pocoyó SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/841.m3u8
+#EXTINF:0,24/7: Ranma ½ HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/840.m3u8
+#EXTINF:0,24/7: Scooby-Doo HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/839.m3u8
+#EXTINF:0,24/7: South Park  HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/838.m3u8
+#EXTINF:0,24/7: WWE 24/7 HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/835.m3u8
+#EXTINF:0,24/7: Cantinflas  (SD)
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3096.m3u8
+#EXTINF:0,24/7: Chespirito SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3090.m3u8
+#EXTINF:0,24/7: Coraje El Perro Cobarde SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3095.m3u8
+#EXTINF:0,24/7: Dragon Ball Super HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3093.m3u8
+#EXTINF:0,24/7: El Coyote y el Correcaminos SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3094.m3u8
+#EXTINF:0,24/7: El Pajaro Loco SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3092.m3u8
+#EXTINF:0,24/7: El príncipe de Bel-Air SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3091.m3u8
+#EXTINF:0,24/7: He-Man y los Amos del Universo SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3088.m3u8
+#EXTINF:0,24/7: Hey Arnold! SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3089.m3u8
+#EXTINF:0,24/7: Inspector Gadget SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3087.m3u8
+#EXTINF:0,24/7: La familia P. Luche SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3086.m3u8
+#EXTINF:0,24/7: Looney Tunes HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3085.m3u8
+#EXTINF:0,24/7: Los Tres Chiflados SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3084.m3u8
+#EXTINF:0,24/7: Power Rangers Mighty Morphin SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3083.m3u8
+#EXTINF:0,24/7: The A-Team SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3082.m3u8
+#EXTINF:0,24/7: ThunderCats SD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3081.m3u8
+#EXTINF:0,24/7: Tom and Jerry HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/3080.m3u8
+#EXTINF:0,Cinema 01 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14284.m3u8
+#EXTINF:0,Cinema 02 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14283.m3u8
+#EXTINF:0,Cinema 03 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14282.m3u8
+#EXTINF:0,Cinema 04 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14281.m3u8
+#EXTINF:0,Cinema 05 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14280.m3u8
+#EXTINF:0,Cinema 06 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14279.m3u8
+#EXTINF:0,Cinema 07 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14278.m3u8
+#EXTINF:0,Cinema 08 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14277.m3u8
+#EXTINF:0,Cinema 09 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14276.m3u8
+#EXTINF:0,Cinema 10 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14275.m3u8
+#EXTINF:0,Cinema 11 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14274.m3u8
+#EXTINF:0,Cinema 12 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14273.m3u8
+#EXTINF:0,Cinema 13 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14272.m3u8
+#EXTINF:0,Cinema 14 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14271.m3u8
+#EXTINF:0,Cinema 15 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14270.m3u8
+#EXTINF:0,Cinema 16 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14269.m3u8
+#EXTINF:0,Cinema 17 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14268.m3u8
+#EXTINF:0,Cinema 18 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14267.m3u8
+#EXTINF:0,Cinema 19 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14266.m3u8
+#EXTINF:0,Cinema 20 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14265.m3u8
+#EXTINF:0,Cinema 21 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14264.m3u8
+#EXTINF:0,Cinema 22 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14263.m3u8
+#EXTINF:0,Cinema 23 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14262.m3u8
+#EXTINF:0,Cinema 24 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14261.m3u8
+#EXTINF:0,Cinema 25 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14260.m3u8
+#EXTINF:0,Cinema 26 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14259.m3u8
+#EXTINF:0,Cinema 27 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14258.m3u8
+#EXTINF:0,Cinema 28 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14257.m3u8
+#EXTINF:0,Cinema 29 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14256.m3u8
+#EXTINF:0,Cinema 30 PPV
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14255.m3u8
+#EXTINF:0,Starz Black FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14254.m3u8
+#EXTINF:0,Starz Comedy FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14252.m3u8
+#EXTINF:0,Starz East FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14251.m3u8
+#EXTINF:0,Starz Edge FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14250.m3u8
+#EXTINF:0,Starz Encore Action
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14249.m3u8
+#EXTINF:0,Starz Encore Black FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14248.m3u8
+#EXTINF:0,Starz Encore Classic FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14247.m3u8
+#EXTINF:0,Starz Encore Family FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14246.m3u8
+#EXTINF:0,Starz Encore Suspense FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14244.m3u8
+#EXTINF:0,Starz Encore Western FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14243.m3u8
+#EXTINF:0,Starz Family HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14242.m3u8
+#EXTINF:0,Starz FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14241.m3u8
+#EXTINF:0,Starz Kids & Family FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14240.m3u8
+#EXTINF:0,Starz West FHD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/14239.m3u8
+#EXTINF:0,IZZI AFICIONADOS HD
+#EXTVLCOPT:network-caching=1000
+http://disfruta.club:8000/live/XaiRtKU9e3/PJ57rHB3Iy/20261.m3u8
+#EX
+#EXTINF:0, canal 25
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-25/playlist.m3u8
+#EXTINF:0, granad
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Granada/playlist.m3u8
+#EXTINF:-1, luna tv
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+#EXTINF:0, **CANALES DE NICARAGUA**
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-1100/playlist.m3u8
+#EXTINF:0, canal 12 nicaragua
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
+#EXTINF:0, canal 13 nicaragua
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+#EXTINF:0, canal 15
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-15/playlist.m3u8
+#EXTINF:0, canal 17
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-17/playlist.m3u8
+#EXTINF:0, Enlace
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-21/playlist.m3u8
+#EXTINF:0, JBN
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-39/playlist.m3u8
+#EXTINF:0, Canal 2
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+#EXTINF:0, canal 4
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+#EXTINF:0, canal 6
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
+#EXTINF:0, canal 9
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
+#EXTINF:0, canal 10
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
+#EXTINF:0, canal 11
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
+#EXTINF:0, canal 8
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+#EXTINF:0, CDNN 23
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-23/playlist.m3u8
+#EXTINF:0, CANAL BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:0, MICRO VISION
+http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+#EXTINF:0,Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",PLUTO TV MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg",ACTION MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0, SIEMPRE LOS MEJORES CANALES
+http://landiptv.live:8080/live/ricardo/ricardo/
+#EXTINF:1, Micro VISION
+http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUh9igN.png" group-title="COLOMBIA", RCN | SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gwf0xO.png" group-title="ARGENTINA", Canal 4 Jujuy | HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0,MX: CANAL 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+#EXTINF:-1, Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0,Sony Movie Channel
+#EXTVLCOPT:network-caching=1000
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:0,ABC News
+#EXTVLCOPT:network-caching=1000
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0,ABC 7 News (Sarasota)
+#EXTVLCOPT:network-caching=1000
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0,ABC News 9 (Orlando)
+#EXTVLCOPT:network-caching=1000
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+#EXTINF:0,CBS 2 (Salt Lake City)
+#EXTVLCOPT:network-caching=1000
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0,CBS 4 News (Indianapolis)
+#EXTVLCOPT:network-caching=1000
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:0,CBS 5 News (Colorado)
+#EXTVLCOPT:network-caching=1000
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0,Channel 11 News WPXI (Pittsburgh)
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:0,KOMO 4 News (Seattle)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:0,2018-09-12 03:31:49 1536723109815118
+#EXTVLCOPT:network-caching=1000
+http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0,NBC 10 News (Philadelphia)
+#EXTVLCOPT:network-caching=1000
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:0,NBC 11 News (Bay Area)
+#EXTVLCOPT:network-caching=1000
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:0,NBC 4 News (Washington DC)
+#EXTVLCOPT:network-caching=1000
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0,NBC 5 News (Chicago)
+#EXTVLCOPT:network-caching=1000
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1, hbo2 dual (eng esp)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1, ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1, Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1, Fight time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1, AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1, Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1, cbs
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1, fox premium comedy (eng)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1, Combat Go
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:-1, Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1, NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:0,canales cristianos
+https://15-lvl3-pdl.vimeocdn.com/01/3458/3/92293374/245393768
+#EXTINF:0,canales de ***ixtla arreola****
+https://15-lvl3-pdl.vimeocdn.com/01/3458/3/92293374/245393768
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8pbx0w7B8m0ymgPYU0H1KC2dNDOx48Yn24HPwTFe00JC7ym8Nrs6XbpY6X0INKYLqVSG=w300"group-title="Canales",IMPACTOVISION
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:0, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1749069089.m3u8
+#EXTINF:-0,SOBRENATURAL
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:0,gracia tv.
+http://v3.tustreaming.cl/graciatv/live1/tracks-v1a1/index.m3u8
+#EXTINF:0, precencia tv
+http://radiosinlimite.net:1935/presenciaonline/presenciaonline/playlist.m3u8
+#EXTINF:0, Dios te ve
+http://livehn.amixhn.com/hls/diosteve.m3u8
+#EXTINF:0, TEVE VIDA
+http://205.164.56.130:1935/francescojavier522/francescojavier522/playlist.m3u8
+#EXTINF:0,genesis tv.
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+#EXTINF:0, el mesisas tv.
+http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8
+#EXTINF:0, CANAL 41 HD UNCION TV
+https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/playlist.m3u8
+#EXTINF:0, CANAL DE AYUDA
+http://ca1.ministeriotv.com:1935/280/280/chunklist_w541714461.m3u8
+#EXTINF:0, Aliento vision.
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:0, Aliento vision.
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:0,Taber tv
+rtmp://streamingcontrol.com/tbbcentral//l1v1.sdp
+#EXTINF:-1, ABN 
+https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
+#EXTINF:0, ONDAS DE AMOR TV
+http://st2.worldkast.com/8008/8008/playlist.m3u8
+#EXTINF:0, VIDA TV
+http://205.164.56.130:1935/marc949/marc949/playlist.m3u8
+#EXTINF:0, COMUNION TV
+http://50.30.37.36:1935/live/stream/media_w307266986_playlist.m3u8
+#EXTINF:0, SALVACION TV
+http://salvaciontv-live.ministeriosonline.com/1019_push_524/3e3b3739c4a53d9e572359612caf8ee3.sdp/index.m3u8
+#EXTINF:0, CANAL TELEFAMILIA
+https://5b34f8d085ada.streamlock.net:1443/canal26/_definst_/canal26/playlist.m3u8
+#EXTINF:0, MINISTERIO  JOSUE TV
+http://va1.ministeriotv.com:1936/264/stream/playlist.m3u8
+#EXTINF:0, RADIO RELAMPAGO
+http://ph1.ministeriotv.com:1936/20/stream/playlist.m3u8
+#EXTINF:0, RADIO IMPACTO DE DIOS
+http://va1.ministeriotv.com:1936/279/stream/playlist.m3u8
+#EXTINF:0, RADIO 105.5
+http://va1.ministeriotv.com:1936/39/stream/playlist.m3u8
+#EXTINF:0, PALABRA DE DIOS SIN LEVADURA
+http://ph1.ministeriotv.com:1936/49/stream/playlist.m3u8
+#EXTINF:0, TU ALTAR RADIO 105.7
+http://ph1.ministeriotv.com:1936/56/stream/playlist.m3u8
+#EXTINF:0, REMA TV
+http://va1.ministeriotv.com:1936/64/stream/playlist.m3u8
+#EXTINF:0, IGLESIA TABERNACULO DE REUNION
+http://va1.ministeriotv.com:1936/81/stream/playlist.m3u8
+#EXTINF:0, RADIO Y TV CRISTO SANA Y RESTAURA
+http://ph1.ministeriotv.com:1936/1625/stream/playlist.m3u8?ixtla
+#EXTINF:0, RADIO NUEVA VIDA
+http://radio.ministeriotv.com:8042/stream.mp3
+#EXTINF:0, RADIO FUEGO ABRAZADOR
+http://ph1.ministeriotv.com:1936/100//stream/playlist.m3u8?ixtla
+#EXTINF:0, IGLESIA PUENTE DE SALVACION
+http://ph1.ministeriotv.com:1936/1637//stream/playlist.m3u8?ixtla
+#EXTINF:0, LLBN LATINO
+rtmp://cp45648.live.edgefcs.net/live/T01587-latino@94847?ixtla
+#EXTINF:0, TNE TV
+http://video.crearchile.tv:8080/live/tnetv.smil/playlist.m3u8
+#EXTINF:0, TV CRET SEÑAL DE BENDICION
+http://radiocret.net:1935/live/tvcret.sdp/media_playlist.m3u8?wowzasessionid=2025070830
+#EXTINF:0, WORO CANAL 13 catolico
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:0, BENDICION TV
+http://live247tv.net:1935/manuel284/manuel284/playlist.m3u8
+#EXTINF:0, RNV TV
+http://ca1.ministeriotv.com:1935/267/267/chunklist_w1219307111.m3u8
+#EXTINF:0, ICCRADIO TV
+http://live247tv.net:1935/danielfernando146/danielfernando146/playlist.m3u8
+#EXTINF:0, CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0, rtv vida
+http://178.32.53.254/radiovida/livestream/chunklist.m3u8
+#EXTINF:0, mision vida
+http://205.164.56.130:1935/jorge854/jorge854/chunklist.m3u8
+#EXTINF:0, EL PUERTO TV
+http://205.164.56.130:1935/secundinoantonio749/secundinoantonio749/playlist.m3u8
+#EXTINF:0,Esperanza Tv
+http://ca1.ministeriotv.com:1935/1521/1521/chunklist.m3u8
+#EXTINF:0, TELEADONAI
+rtmp://wow.adonainy.com/live//streamName
+#EXTINF:0, TIEMPO FINAL RADIO
+http://va1.ministeriotv.com:1936/6/stream/chunklist_w1704192068.m3u8
+#EXTINF:0, FUEGO SANTO RADIO
+http://va1.ministeriotv.com:1936/256/stream/chunklist_w1107454307.m3u8
+#EXTINF:0, POSTREROS TIEMPOS RADIO
+http://va1.ministeriotv.com:1936/2/stream/chunklist_w1486165420.m3u8
+#EXTINF:0, REEDIFICANDO LOS MUROS CAIDOS RADIO
+http://ca1.ministeriotv.com:1935/262/262/chunklist_w1777282906.m3u8
+#EXTINF:0, RNV TV
+http://ca1.ministeriotv.com:1935/267/267/chunklist_w1219307111.m3u8
+#EXTINF:0, CANAL DE AYUDA
+http://ca1.ministeriotv.com:1935/280/280/chunklist_w541714461.m3u8
+#EXTINF:0, CTN INT.
+http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w1816794543_b1556000_slesp.m3u8
+#EXTINF:0,CTNi  
+http://184.164.158.202:1936/48/smil:48.smil/chunklist_w840077962_b1564000_sleng.m3u8
+#EXTINF:0,CBN Español  
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0,Vision Celestial      
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+#EXTINF:0,RTVida HD  
+http://178.32.53.254/radiovida/livestream/chunklist_w436950567.m3u8
+#EXTINF:0,CDM Internacional    
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:0,Comunion TV    
+http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist.m3u8
+#EXTINF:0,Red Advenir      
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8?wowzasessionid=1788782041
+#EXTINF:0,Rhema Vision                                  
+http://va1.ministeriotv.com:1936/64/stream/chunklist.m3u8
+#EXTINF:0, CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0, rtv vida
+http://178.32.53.254/radiovida/livestream/chunklist.m3u8
+#EXTINF:0, cielo tv
+http://wan-lbf.net:1935/cielotv/myStream.sdp/chunklist.m3u8
+#EXTINF:0, reino tv
+http://streaming.omeganet.org:1935/reinotv/envivo/playlist.m3u8
+#EXTINF:0, ministerio int la senda
+http://streaming.omeganet.org:1935/lasenda/canal_MB/playlist.m3u8
+#EXTINF:0, CMB TV
+http://st1.worldkast.com/cmbstream/ngrp:cmbstream_all/chunklist_w1177217307_b934400.m3u8
+#EXTINF:0, logos tv
+http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
+#EXTINF:0, CRISTO VISION
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+#EXTINF:0, casa de adoracion int.
+http://ihoplive-f.akamaihd.net/i/ihopkc_tprhd@142185/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, solidaria tv
+http://panel.cdnstreamserver.com/live/argentina-web.m3u8
+#EXTINF:0, comunion tv
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:0, red advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8
+#EXTINF:0, tabernaculo bautista
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
+#EXTINF:0, iglesia ebenezer honduras
+http://hds4.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
+#EXTINF:0,nuevo tiempo
+http://wow1.dallas.digitalproserver.com/ntiempo/ntiempovivo/ntiempo.smil/playlist.m3u8
+#EXTINF:0, CDM INT
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:0, faro de sanidad
+http://va1.ministeriotv.com:1936/110/stream/playlist.m3u8
+#EXTINF:0, rema vision
+http://va1.ministeriotv.com:1936/64/stream/playlist.m3u8
+#EXTINF:0,Cielo TV                                              
+http://wan-lbf.net:1935/cielotv/myStream.sdp/chunklist_w33951886.m3u8
+#EXTINF:0,Rodolfo Font TV
+http://streaming.omeganet.org:1935/reinotv/envivo/chunklist_w29851567.m3u8
+#EXTINF:0,Ministerio Internacional La Senda
+http://streaming.omeganet.org:1935/lasenda/canal_MB/chunklist_w1310386807.m3u8
+#EXTINF:0,Alerta TV *
+http://server1.alertacableaccion.com:1935/live/dvr/chunklist.m3u8
+#EXTINF:0, ALERT TV
+http://server1.alertacableaccion.com:1935/Channel-5iphonelive/ALERTTV.sdp/playlist.m3u8
+#EXTINF:0, Adoración Internacional
+http://ihoplive-f.akamaihd.net/i/ihopkc_tprhd@142185/index_2500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, CONGREGACION CRISTIANA
+http://205.164.56.130:1935/carmen249/carmen249/playlist.m3u8
+#EXTINF:0, esne tv (CANAL CATOLICO)
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/playlist.m3u8
+#EXTINF:0, THE HOLY SPIRIT TV
+http://205.164.56.130:1935/ed381/ed381/playlist.m3u8
+#EXTINF:0, hope channel
+http://bcliveuniv-lh.akamaihd.net/i/HopeChannel_1@182961/master.m3u8
+#EXTINF:0, gospel channel
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-gospel/_definst_/live.m3u8
+#EXTINF:0, ctn hd
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+#EXTINF:0, house of yahweh
+http://198.57.164.156:1935/live/SermonLoop/playlist.m3u8
+#EXTINF:0, channel God
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+#EXTINF:0, cbn news
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0, cbn ingles
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0, canal tct
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
+#EXTINF:0, REVELATION TV
+https://dwun498y9o8lf.cloudfront.net/revelationtv/live.m3u8
+EXTINF:0, ELOHIM TV
+http://205.164.56.130:1935/radhames706/radhames706/playlist.m3u8
+#EXTINF:0, alfa y omega
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:0, its supernatural network
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:0, ***CANALES ARREOLA****
+http://landiptv.live:8080/live/ricardo/ricardo/7
+#EXTINF:-1, TELENORD 8
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8
+#EXTINF:-1, TELENORD12 TV
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/media_w1227936056.m3u8
+#EXTINF:-1, ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1, MVS NOTICIAS
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist_b1000582.m3u8
+#EXTINF:-1, RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/media_w1632423129.m3u8
+#EXTINF:-1, SUPER 5
+http://k4.usastreams.com/superC/superC_1/media_w27246718.m3u8
+#EXTINF:-1, canal 4
+http://184.154.28.210:1935/canal4/canal4/media_w1793076184.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8pbx0w7B8m0ymgPYU0H1KC2dNDOx48Yn24HPwTFe00JC7ym8Nrs6XbpY6X0INKYLqVSG=w300"group-title="Canales",IMPACTOVISION
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:0,********ARREOLA**********
+http://landiptv.live:8080/live/felix/felix/97747.M3U8
+#EXTINF:0, RCN | SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8 
+#EXTINF:0, Azteca 13 | SD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0, Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0, TV Mas | SD
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:0, Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0, Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0, Foro TV | SD
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:0, Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0, Mexiquense | SD
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0, Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:0, Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:0, Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0, Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0, Ingenio TV | SD
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+#EXTINF:0, Canal del Congreso | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+#EXTINF:0, Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:0, Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0, Tlaxcala TV | SD
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0, Capital 21 | SD
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:0, RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+#EXTINF:0, RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:0, RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:0, TV Cuatro 4.1 | HD
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+#EXTINF:0, TV Cuatro 4.2 | HD
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
+#EXTINF:0, C7 Jalisco | SD
+http://streamingcws10.com:1935/c7noticias/videoc7noticias/playlist.m3u8?DVR
+#EXTINF:0, Puebla TV | SD
+http://189.203.247.136/live/pueblatv/playlist.m3u8
+#EXTINF:0, TVP Mazatlan | FHD
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:0, Telemax Sonora | HD
+http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8
+#EXTINF:0, 15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:0, ForoTV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:0, Canal 4
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:0, Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:0, Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+#EXTINF:0, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+#EXTINF:0, Canal Carnaval 38
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+#EXTINF:0, UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0, UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:0, VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+#EXTINF:0, VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0, DeporTV | SD
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8
+#EXTINF:0, Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:0, MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0, Mundo Auto Television | HD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:0, Pac-12 Arizona | FHD
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0, Pac-12 Bay Area | FHD
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:0, Pac-12 Los Angeles | FHD
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0, Pac-12 Mountain | FHD
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:0, Pac-12 Oregon | FHD
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0, Pac-12 Washington | FHD
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:0, Rugby TV | SD
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:0, CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:-1,SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,Wapa Deportes
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
+#EXTINF:-1,Mundo Auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1, Cachipun tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1, Trailer tv
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/a33b581b/playlist.m3u8
+#EXTINF:-1,RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?hd=10&rebase=on
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,México:Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,MEXICO:A+ SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+#EXTINF:-1,MEXICO:A+2 SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1,MEXICO:TV MEXIQUENSE
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1,MEXICO:EFECTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1,MEXICO:Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+#EXTINF:-1, milenio tv
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,MEXICO:ADN40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+#EXTINF:-1,MVS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
